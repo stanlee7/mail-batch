@@ -1,0 +1,6 @@
+openpyxl
+PySide6
+# dev only:
+#   aiosmtpd  (tests/test_send_local.py)
+#   Pillow    (tests/make_icon.py)
+#   pyinstaller
