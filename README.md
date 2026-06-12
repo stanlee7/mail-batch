@@ -3,6 +3,8 @@
 엑셀 명단으로 한 사람 한 사람에게 **개인화된 메일**을 자동 발송하는 Windows 데스크톱 앱.
 수료증·안내문·공문 발송에 딱 맞습니다. API 키·서버 불필요, 완전 로컬 동작. **무료**입니다.
 
+**⬇ 다운로드: [mailbatch.vercel.app](https://mailbatch.vercel.app)** · [Releases](https://github.com/stanlee7/mail-batch/releases)
+
 > [HWP 배치](https://hwp-batch.vercel.app)로 수료증 PDF를 대량 생성했다면,
 > 이 도구로 한 사람씩 메일 발송까지 끝낼 수 있습니다.
 
