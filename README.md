@@ -1,9 +1,17 @@
 # 메일 배치 — 엑셀 명단 개인별 메일 일괄발송
 
+> **명단 속 수십 명에게 이름·첨부만 바꿔 메일을 한 통씩 보내던 일을 한 번에 끝냅니다.**
+
 엑셀 명단으로 한 사람 한 사람에게 **개인화된 메일**을 자동 발송하는 Windows 데스크톱 앱.
 수료증·안내문·공문 발송에 딱 맞습니다. API 키·서버 불필요, 완전 로컬 동작. **무료**입니다.
 
-**⬇ 다운로드: [mailbatch.vercel.app](https://mailbatch.vercel.app)** · [Releases](https://github.com/stanlee7/mail-batch/releases)
+## 사용 모습
+
+<!-- 사용 GIF 준비 중 -->
+
+## 내려받기
+
+- **⬇ 다운로드: [mailbatch.vercel.app](https://mailbatch.vercel.app)** · [Releases](https://github.com/stanlee7/mail-batch/releases/latest)
 
 > [HWP 배치](https://hwp-batch.vercel.app)로 수료증 PDF를 대량 생성했다면,
 > 이 도구로 한 사람씩 메일 발송까지 끝낼 수 있습니다.
@@ -46,3 +54,7 @@ python app.py
 python -m PyInstaller MailBatch.spec --noconfirm
 dist\MailBatch\MailBatch.exe --selftest   # SELFTEST: SUCCESS 확인
 ```
+
+## 우리 팀에 도입·교육이 필요하면
+
+에이전엘은 기업·기관 AI 교육과 AX 업무 도구 구축을 합니다. 이 도구를 팀 업무에 맞게 적용하거나 사용 교육이 필요하면 → [에이전엘 견적 요청](https://agenaile.com/?utm_source=github&utm_medium=readme&utm_campaign=tools&utm_content=mail-batch#quote)
